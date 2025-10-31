@@ -1,0 +1,63 @@
+#EXTM3U
+
+                                                  TV Aberta
+
+#EXTINF:-1 tvg-coutry="Brasil" tvg-language="PT-BR" tvg-logo="https://play-lh.googleusercontent.com/Gg4-7aies19oLpAhI2B5vw-JVkNpLchP8f4tkjcNzaG6Y5Y2rPhqMZYAADert5zhP3o" group-title="Canais | Natureza", Amazon Sat (1080p)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-coutry="brasil" tvg-language="pt-br" tvg-name="AWTV (1080P)" tvg-logo="https://assets-fabapp.com/2924496/e56a848afeceeccb79d92967822214d474b25ea6" group-title="Canais | Alta definição (HD)", AWTV (1080P)
+https://streaming.cloudecast.com/hls/awtv/index.m3u8
+
+#EXTINF:-1 tvg-coutry="brasil" tvg-language="pt-br" tvg-name="AWTV (1080P)" tvg-logo="https://assets-fabapp.com/2924496/e56a848afeceeccb79d92967822214d474b25ea6" group-title="Canais | Variedades", AWTV (1080P)
+https://streaming.cloudecast.com/hls/awtv/index.m3u8
+
+#EXTINF:-1 tvg-coutry="brasil" tvg-language="pt-br" tvg-name="AWTV (1080P)" tvg-logo="https://assets-fabapp.com/2924496/e56a848afeceeccb79d92967822214d474b25ea6" group-title="Canais | Alta definição (HD)", AWTV (1080P)
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-coutry="brasil" tvg-language="pt-br" tvg-name="AWTV (1080P)" tvg-logo="https://assets-fabapp.com/2924496/e56a848afeceeccb79d92967822214d474b25ea6" group-title="Canais | Variedades", AWTV (1080P)
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-coutry="brasil" tvg-language="pt-br" tvg-name="Adesso TV (720p)" tvg-logo="https://yt3.googleusercontent.com/ZsLSVzEST4REyS6OhoPqqv9jYBq3pxiFxLsZ-Z5RwRHxkzifrUUQtMqTU5Zd_qHV8ADSzxc4xw=s160-c-k-c0x00ffffff-no-rj" group-title="Canais | Notícias", Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1 tvg-coutry="brasil" tvg-language="pt-br" tvg-name="Adesso TV (720p)" tvg-logo="https://yt3.googleusercontent.com/ZsLSVzEST4REyS6OhoPqqv9jYBq3pxiFxLsZ-Z5RwRHxkzifrUUQtMqTU5Zd_qHV8ADSzxc4xw=s160-c-k-c0x00ffffff-no-rj" group-title="Canais | Variedades", Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1 tvg-coutry="brasil" tvg-language="pt-br" tvg-name="Adesso TV (720p)" tvg-logo="https://yt3.googleusercontent.com/ZsLSVzEST4REyS6OhoPqqv9jYBq3pxiFxLsZ-Z5RwRHxkzifrUUQtMqTU5Zd_qHV8ADSzxc4xw=s160-c-k-c0x00ffffff-no-rj" group-title="Canais | Notícias", Adesso TV (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1 tvg-coutry="brasil" tvg-language="pt-br" tvg-name="Adesso TV (720p)" tvg-logo="https://yt3.googleusercontent.com/ZsLSVzEST4REyS6OhoPqqv9jYBq3pxiFxLsZ-Z5RwRHxkzifrUUQtEMqTU5Zd_qHV8ADSzxc4xw=s160-c-k-c0x00ffffff-no-rj" group-title="Canais | Variedades", Adesso TV (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1  tvg-coutry="brasil" tvg-language="pt-br" tvg-name="Canal 25 Jundiaí (404p) [Not 24/7]" tvg-logo="https://imgs.search.brave.com/bAGOqcZou8OVfe8G-ehoggCErETuQ5jNLIBRNZc7W2w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y3h0di5jb20uYnIv/aW1nL1R2cy9Mb2dv/L3dlYnAtbC9lMjhk/MTEwNzQ2YmNmMTdl/NzMyMTRmYTg1ZWY0/ZDA0Yi53ZWJw" group-title="Canais | Variedades", Canal 25 Jundiaí (404p) [Not 24/7]
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-name="Canal 38 (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nhtwVLCyTIQlv77JygKxC1P-BHJ_Fp2r87dX7EyJB2TA=s160-c-k-c0x00ffffff-no-rj" group-title="Canais | Variedades", Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Criador (1080p)" tvg-logo="https://yt3.googleusercontent.com/Qe4KnY8EnBPE6u43LWuJs_WlKwTZ-60GwhhQ-SsPiQI16teeEV8Tw2qZ63vQr0Q9HwbrkzaBTA=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Agronegócio", Canal do Criador (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Inter (720p) [Not 24/7]" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1e32a01a38e1bf2d0093a66c9d50542.webp" group-title="Canais | Esportes", Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nRLIrnk2e7Ev0pytjw0wvvyh7cMFAWJbcqmM4167sanV8=s48-c-k-c0x00ffffff-no-rj" group-title="Canais | Infantis", Pica-Pau
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761896665/ei/eRQEacnOFuXZ9cYPrOSu2Aw/ip/2804%3Ad45%3A8815%3A8800%3A591e%3Ab348%3Aab36%3A7356/id/bJbL1GwtSZw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539854/txs/51539853%2C51539854%2C51539855/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AdEuB5RK3afA9bKYUuU4AUwfpGVuDkREZoQei-oTKNTPwQ7gPTVF6ciX-py16HbSUceKTQSUdA/spc/6b0G_DCS-L6R-Ob6oUzVNVYQePUI0Jmcay45IuY8RvD_5zs1WWpb/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANJXhD7rOOIe1zptgF9wnnF-0wZKKQulYc5FYgUYbcquAiAyiBTrH6qrFnrEzm8u0W2wTtt7EYqwM-nOektDWBp5Aw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nRLIrnk2e7Ev0pytjw0wvvyh7cMFAWJbcqmM4167sanV8=s48-c-k-c0x00ffffff-no-rj" group-title="Canais | 24HRS", Pica-Pau
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761896665/ei/eRQEacnOFuXZ9cYPrOSu2Aw/ip/2804%3Ad45%3A8815%3A8800%3A591e%3Ab348%3Aab36%3A7356/id/bJbL1GwtSZw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539854/txs/51539853%2C51539854%2C51539855/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AdEuB5RK3afA9bKYUuU4AUwfpGVuDkREZoQei-oTKNTPwQ7gPTVF6ciX-py16HbSUceKTQSUdA/spc/6b0G_DCS-L6R-Ob6oUzVNVYQePUI0Jmcay45IuY8RvD_5zs1WWpb/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANJXhD7rOOIe1zptgF9wnnF-0wZKKQulYc5FYgUYbcquAiAyiBTrH6qrFnrEzm8u0W2wTtt7EYqwM-nOektDWBp5Aw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lQqGLNYnTcjLsD-Hy0iXMofx095d2taGFBdsNEpQT4fjo=s240-c-k-c0x00ffffff-no-rj" group-title="Canais | Infantis", Peppa Pig
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761897992/ei/qBkEaavjBazLgM8Plc7N2AM/ip/2804%3Ad45%3A8815%3A8800%3A591e%3Ab348%3Aab36%3A7356/id/s1Wc8HCHYFo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539854/txs/51539853%2C51539854%2C51539855/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AdEuB5RefLxuNKsfL1Vonuy5Ac4KrMXkT2bD5fhu371Ad-ojTV5T_4Hka6iEqdLpaKXfV01eLQ/spc/6b0G_FjnGoGrlHjTEkAWSRCYG0Jjs8L_wCUv5CRwglHkPQMvycw5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLX8JPPPcyxT-n2XFdtsn925agbVotupAzx03MdjVlAQCIBjejlCvhMx-Fj5uvVOFaQdgyvcidabVUPfvFy7Ow-pF/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lQqGLNYnTcjLsD-Hy0iXMofx095d2taGFBdsNEpQT4fjo=s240-c-k-c0x00ffffff-no-rj" group-title="Canais | 24HRS", Peppa Pig
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761897992/ei/qBkEaavjBazLgM8Plc7N2AM/ip/2804%3Ad45%3A8815%3A8800%3A591e%3Ab348%3Aab36%3A7356/id/s1Wc8HCHYFo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539854/txs/51539853%2C51539854%2C51539855/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AdEuB5RefLxuNKsfL1Vonuy5Ac4KrMXkT2bD5fhu371Ad-ojTV5T_4Hka6iEqdLpaKXfV01eLQ/spc/6b0G_FjnGoGrlHjTEkAWSRCYG0Jjs8L_wCUv5CRwglHkPQMvycw5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLX8JPPPcyxT-n2XFdtsn925agbVotupAzx03MdjVlAQCIBjejlCvhMx-Fj5uvVOFaQdgyvcidabVUPfvFy7Ow-pF/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://images.seeklogo.com/logo-png/39/2/the-simpsons-logo-png_seeklogo-395058.png" group-title="Canais | 24HRS", Os Simpsons
+https://raw.githubusercontent.com/NathanGamedev/ListaIPTV/refs/heads/main/1080_out.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://images.seeklogo.com/logo-png/39/2/the-simpsons-logo-png_seeklogo-395058.png" group-title="Canais | Infantis", Os Simpsons
+https://raw.githubusercontent.com/NathanGamedev/ListaIPTV/refs/heads/main/1080_out.m3u8
+
+
+
